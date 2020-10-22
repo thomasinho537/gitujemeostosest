@@ -1,1 +1,1 @@
-console.log("on no")
+console.log("LMAO");
